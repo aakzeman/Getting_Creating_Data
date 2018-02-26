@@ -7,7 +7,7 @@ Data was obtained from [UCI Machine Learning Repository](http://archive.ics.uci.
 
 The code used for the program followed these general steps:
 
-1. Read, formatted, and import data into R 
+1. Read, formatted, and import data into R with working directory 
 2. Merge existing training and test data sets into one new data set
 3. Extract measurements within the mean and standard deviation for each measurement
 4. Use descriptive activity names for current data set activites
@@ -15,7 +15,14 @@ The code used for the program followed these general steps:
 6. Create second, independent data set with averages for each variable, activity, and subject
 7. Extract data and create tidy data set file
 
-## Variables
+## Important Program Variables
+
+* activity_labels is a table containing data from activity_labels.txt file
+* features is a table containing data from features.txt file
+* extractData is a second data set with calculated averages from 12 variables
+* run_analysis_tidy.txt is the text file containing final tidy data set
+
+## Extracted Variables
 
 Variable names from extracted data:
 
