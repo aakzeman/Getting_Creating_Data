@@ -15,11 +15,12 @@ The code used for the program followed these general steps:
 6. Create second, independent data set with averages for each variable, activity, and subject
 7. Extract data and create tidy data set file
 
-## Important Program Variables
+## Output / Program Variables
 
-* activity_labels is a table containing data from activity_labels.txt file
-* features is a table containing data from features.txt file
-* extractData is a second data set with calculated averages from 12 variables
+* Subject are the identifiers for each activity
+* Activity are the identifiers for each activity name performed
+* measurement are the measurements for each activity
+* mean  are the mean of each measurement mean / standard deviation
 * run_analysis_tidy.txt is the text file containing final tidy data set
 
 ## Extracted Variables
