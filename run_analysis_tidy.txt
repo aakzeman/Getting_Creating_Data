@@ -1,4 +1,4 @@
-"subject" "activity" "measurement" "measurement_mean"
+"Subject" "Activity" "measurement" "mean"
 1 "LAYING" "fBodyAcc-mean()-X" -0.774779592934
 1 "LAYING" "fBodyAcc-mean()-Y" -0.74287496838
 1 "LAYING" "fBodyAcc-mean()-Z" -0.8072646706
