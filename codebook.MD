@@ -17,10 +17,10 @@ The code used for the program followed these general steps:
 
 ## Output / Program Variables
 
-* Subject are the identifiers for each activity
-* Activity are the identifiers for each activity name performed
-* measurement are the measurements for each activity
-* mean  are the mean of each measurement mean / standard deviation
+* **Subject** are the identifiers for each activity
+* **Activity** are the identifiers for each activity name performed
+* **measurement** are the measurements for each activity
+* **mean**  are the mean of each measurement mean / standard deviation
 * run_analysis_tidy.txt is the text file containing final tidy data set
 
 ## Extracted Variables
